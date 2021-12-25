@@ -1,6 +1,13 @@
 [中文](https://github.com/NearlyHeadlessJack/ComputerVisionPractice/blob/main/README_ZH_CN.MD) | **EN**
 
 # ComputerVisionPractice
+Camera Calibration:
+
+![building status](https://img.shields.io/badge/Ubuntu20.04%2FOpenCV4.5.3-passing-brightgreen)
+
+![building status](https://img.shields.io/badge/Windows10%2FOpenCV4.5.3-passing-brightgreen)
+
+![building status](https://img.shields.io/badge/Windows11%2FOpenCV4.5.3-passing-brightgreen)
 
 ## Overview
 This is the complete sample of ComputerVisionPractice which is an undergraduate practice course of [NEU-ISE](http://www.ise.neu.edu.cn) on ComputerVision & ROS.(2021-Fall) 
