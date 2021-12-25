@@ -1,6 +1,13 @@
 **中文** | [EN](https://github.com/NearlyHeadlessJack/ComputerVisionPractice#readme)
 
 # 计算机视觉课程设计
+相机标定:
+
+![building status](https://img.shields.io/badge/Ubuntu20.04%2FOpenCV4.5.3-passing-brightgreen)
+
+![building status](https://img.shields.io/badge/Windows10%2FOpenCV4.5.3-passing-brightgreen)
+
+![building status](https://img.shields.io/badge/Windows11%2FOpenCV4.5.3-passing-brightgreen)
 
 ## 说明
 这是[东北大学信息科学与工程学院](http://www.ise.neu.edu.cn)2021年秋季学期课程《计算机视觉课程设计》的样例，这门课简单实践了计算机视觉和ROS的使用。
